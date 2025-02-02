@@ -1,2 +1,5 @@
 /venv/
 .idea
+/http_cache.sqlite
+/downloads/
+/__pycache__/
