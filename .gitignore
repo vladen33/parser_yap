@@ -3,3 +3,5 @@
 /http_cache.sqlite
 /downloads/
 /__pycache__/
+/results/
+/logs/
